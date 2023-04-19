@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Abhishek
+Hi there, Abhishek here 👋🏽
+------------------------------------------------------------------------------------
+I'm a Software Developer based in Bangalore, India.
+- 👨🏽‍💻 I currently work full-time at SAP Labs
 - 👀 I’m interested in FullStack web development and Data Science
-- 🌱 I’m currently learning Data Science and Engineering
-- 💞️ I’m looking to collaborate on Django, DataScience/Data Visualization projects
-- 📫 Abhi.1802@outlook.com
+- 💞️ I’m looking to collaborate on Django,Flask, DataScience/Data Visualization projects
 
 <!---
 abhi1802/abhi1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
